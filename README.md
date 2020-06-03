@@ -8,4 +8,6 @@ The root Python app is on semnas/snm8.wsgi.
 # Dependency
 Flask & MongoDB
 
+# Warning
+The model parts of this source is yet to follow proper MVC framework
 
